@@ -11,5 +11,5 @@ env/
 .spyderproject
 .spyproject
 
-# Input
-*/input/*
+# Datasets in "input" folder
+input/

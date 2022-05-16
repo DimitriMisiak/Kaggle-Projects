@@ -13,3 +13,6 @@ env/
 
 # Datasets in "input" folder
 input/
+
+# MacOS Files
+.DS_Store
